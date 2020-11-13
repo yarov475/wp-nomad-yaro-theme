@@ -1,0 +1,30 @@
+.single-post .site-content{
+    background-color: #d1F9Fc;
+    padding: 56px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.single-post .site-main{
+    flex: 0 0 70%;
+    min-width: 70%;
+    background-color: #fff;
+    border: 1px solid #d3d3dd;
+    padding: 48px;
+}
+.single-post .widget-area{
+    flex: 0 0 70%;
+    min-width: 70%;
+    background-color: #fff;
+    border: 1px solid #d3d3dd;
+    padding: 48px;
+}
+.single-post .post-thumbnail img {
+    object-fit: cover;
+    width: 100%;
+    height: 300px;
+}
+.single-post .about-post{
+    display: flex;
+    justify-content: space-between;
+}

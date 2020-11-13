@@ -1,0 +1,46 @@
+.wp-block-button__link{
+    position: relative;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #FF6056;
+    padding: 8px 48px;
+    font-size: 1.25rem;
+    border-radius: 5%;
+    letter-spacing: 2px;
+
+}
+.wp-block-button__link:hover{
+    text-decoration: none;
+    color: #ffffff;
+    background-color: rgba(255, 96, 86, 0.8);
+}
+
+.wp-block-button__link{
+    position: relative;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #FF6056;
+    padding: 8px 48px;
+    font-size: 1.25rem;
+    border-radius: 5%;
+    letter-spacing: 2px;
+
+}
+.wp-block-button__link{
+    text-decoration: none;
+    color: #ffffff;
+    background-color: rgba(255, 96, 86, 0.8);
+}
+.wp-block-quote.is-style-large p {
+    font-size: 1.5rem;
+    font-weight: 400;
+
+}
+.wp-block-quote.is-style-default  {
+  border-left: 5px solid #FF6056;
+  padding-left: 8px;
+
+}
+.wp-block-quote.is-style-default  p{
+    font-size: 1.25rem;
+}
