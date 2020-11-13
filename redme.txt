@@ -1,0 +1,7 @@
+echo "# wp-nomad-yaro-theme" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/yarov475/wp-nomad-yaro-theme.git
+git push -u origin main
